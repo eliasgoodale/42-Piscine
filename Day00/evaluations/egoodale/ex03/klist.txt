@@ -1,0 +1,2 @@
+Issued                Expires               Principal
+Jan  8 15:54:11 2018  Jan  9 01:54:02 2018  krbtgt/42.US.ORG@42.US.ORG
